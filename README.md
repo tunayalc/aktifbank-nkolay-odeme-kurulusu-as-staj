@@ -15,17 +15,3 @@ N Kolay Ödeme Kuruluşu A.Ş. stajım sırasında geliştirdiğim yapay zekâ, 
 
 Her proje kendi klasöründe bağımsızdır. Projeye ait README dosyasını okuyun ve komutları ilgili proje klasöründen çalıştırın. Bağımlılıkları proje bazında ayrı bir sanal ortama kurun; veri setleri, model ağırlıkları ve yerel servis gereksinimleri projeye göre değişir.
 
-## Repo düzeni
-
-```text
-aktifbank-nkolay-odeme-kurulusu-as-staj/
-├── ollama-n8n-toolkit/
-├── smart-financial-strategist/
-├── Smart-Debt-Collection-Strategy-Agent/
-├── Banknote-Detector/
-└── README.md
-```
-
-## Geçmiş
-
-Dört kaynak reponun Git geçmişi korunarak her proje aynı adı taşıyan alt klasöre taşınmıştır. Kaynak dosyalar birleştirme sırasında değiştirilmemiştir.
